@@ -1,7 +1,7 @@
 ### Hi, i am Oleg 👋
 
 
-![Header image]()
+![Header image](https://github.com/lego5621/lego5621/blob/main/Assets/156045.jpg?raw=true)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 I'm a tech enthusiast who loves to learn about new things. Connect with me on Telegram.
 
