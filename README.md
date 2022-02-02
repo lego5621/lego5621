@@ -10,7 +10,6 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Te
 
 [![Telegram icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/pako5621)
 [![Instagram Badge](https://img.shields.io/badge/-roshanjayraj-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/lego5621/)
-
 [![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@jayraj.co.in)](mailto:lego5621@gmail.com)
 
 - 🔭 I’m currently working on ...
